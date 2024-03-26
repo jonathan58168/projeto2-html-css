@@ -6,8 +6,9 @@ body {
 }
 
 .page {
-    width: 1020px;
-    margin: 65px auto 0;
+    width: 1000px;
+    margin: 0 auto 0;
+    padding-top: 65px;
 }
 
 nav {
